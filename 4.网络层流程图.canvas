@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"173cde4bc29f90f9","type":"file","file":"流程图/deepseek_mermaid_20260118_73e7b6.svg","x":-420,"y":-340,"width":280,"height":689},
+		{"id":"bda4d6d625fb9868","type":"text","text":"## 三、网络层状态机流程图","x":-420,"y":-440,"width":453,"height":60},
+		{"id":"22270e79bf2a4402","type":"text","text":"","x":-318,"y":636,"width":250,"height":60},
+		{"id":"b298ee328332a915","type":"file","file":"流程图/deepseek_mermaid_20260118_79fecd.svg","x":-420,"y":500,"width":480,"height":800},
+		{"id":"2554d9123d59c6f5","type":"text","text":"## 五、网络层与各层的交互流程图","x":-422,"y":380,"width":458,"height":60},
+		{"id":"4ca132d4b6ff7a40","type":"file","file":"流程图/deepseek_mermaid_20260118_2ec21e.svg","x":-420,"y":1520,"width":800,"height":360},
+		{"id":"3646ae1fcce673f5","type":"text","text":"## 六、定时器管理机制","x":-420,"y":1380,"width":322,"height":56},
+		{"id":"3ba03b6ce5dea062","type":"text","text":"// 定时器超时回调函数\nvoid NWL_TAr_TimeoutCallback(TimerHandle_t pxTimer);  // Ar定时器\nvoid NWL_TBr_TimeoutCallback(TimerHandle_t pxTimer);  // Br定时器\nvoid NWL_TCr_TimeoutCallback(TimerHandle_t pxTimer);  // Cr定时器\n\n// 定时器时间配置（示例）\n#define TIME_AR_MAX 1000  // 1秒\n#define TIME_BR_MAX 2000  // 2秒\n#define TIME_CR_MAX 5000  // 5秒","x":-420,"y":1920,"width":822,"height":286},
+		{"id":"8a8556fe006a3ac6","type":"file","file":"流程图/deepseek_mermaid_20260118_479852.svg","x":-409,"y":2400,"width":836,"height":560},
+		{"id":"6c273f20398ac3f7","type":"text","text":"## 七、错误处理与恢复机制","x":-409,"y":2280,"width":371,"height":54},
+		{"id":"63f98df8f088b35d","type":"file","file":"流程图/deepseek_mermaid_20260118_e37139.svg","x":-422,"y":-960,"width":757,"height":400},
+		{"id":"203956a789cae9cb","type":"text","text":"## 一、网络层整体架构","x":-422,"y":-1080,"width":386,"height":60}
+	],
+	"edges":[]
+}

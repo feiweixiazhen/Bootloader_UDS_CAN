@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb772cf7462c12a3","type":"file","file":"流程图/deepseek_mermaid_20260118_74ba1b.svg","x":-340,"y":-200,"width":220,"height":569},
+		{"id":"10962934ba8597bb","type":"text","text":"### 3.1 主处理流程","x":-340,"y":-300,"width":250,"height":60},
+		{"id":"b3c364ff667afc6d","type":"text","text":"3.2 安全访问流程","x":-340,"y":400,"width":250,"height":60},
+		{"id":"f106d73d52208b6a","type":"file","file":"流程图/deepseek_mermaid_20260118_d5247b.svg","x":-340,"y":500,"width":333,"height":400},
+		{"id":"75c16f33095cfb84","type":"file","file":"流程图/deepseek_mermaid_20260118_c1e6f2.svg","x":-340,"y":1020,"width":240,"height":1241},
+		{"id":"3b9be3bc96c8d9db","type":"text","text":"3.3 固件更新下载流程","x":-340,"y":920,"width":250,"height":60}
+	],
+	"edges":[]
+}

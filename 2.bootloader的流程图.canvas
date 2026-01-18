@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1d87ad4407dca919","type":"file","file":"流程图/deepseek_mermaid_20260118_b55698.png","x":-880,"y":540,"width":1070,"height":1220},
+		{"id":"0bd767122c6c0ba6","type":"text","text":"## 一、整体系统启动流程图","x":-880,"y":440,"width":375,"height":32},
+		{"id":"a8c094623802a344","type":"text","text":"## 四、内存共享架构流程图","x":-1000,"y":4880,"width":436,"height":80},
+		{"id":"2370a032801f540f","type":"file","file":"流程图/deepseek_mermaid_20260118_a0d7d7.png","x":-1000,"y":5020,"width":2045,"height":220},
+		{"id":"79c212af79d307f0","type":"text","text":"## 五、固件更新状态转换图","x":-1000,"y":5440,"width":476,"height":80},
+		{"id":"23dfe7c6d5a9672d","type":"file","file":"流程图/deepseek_mermaid_20260118_1f736b.png","x":-1000,"y":5600,"width":612,"height":4802},
+		{"id":"e59ed3e22b561766","type":"text","text":"## 六、错误处理流程图","x":-1000,"y":10600,"width":476,"height":50},
+		{"id":"7055b36d2b3d8951","type":"file","file":"流程图/deepseek_mermaid_20260118_2f5e40.png","x":-1000,"y":10720,"width":2011,"height":1760},
+		{"id":"604294faf36c2f7d","type":"file","file":"流程图/deepseek_mermaid_20260118_c9757f.png","x":-1000,"y":13720,"width":2394,"height":1520},
+		{"id":"b5d3b2b5a74666f9","type":"text","text":"## 八、关键函数调用关系图","x":-1000,"y":13600,"width":416,"height":50},
+		{"id":"1176fde8a6ed4df5","type":"text","text":"## 三、UDS协议集成流程图","x":-924,"y":3400,"width":375,"height":56},
+		{"id":"7022d78adf3e51a9","type":"file","file":"流程图/deepseek_mermaid_20260118_bcf6af.png","x":-924,"y":3500,"width":560,"height":1160},
+		{"id":"d77494a400bfaf60","type":"file","file":"流程图/deepseek_mermaid_20260118_7ffea9.svg","x":-909,"y":1920,"width":720,"height":1421},
+		{"id":"ebef19af802e231e","type":"text","text":"## 二、核心状态机详细流程图","x":-909,"y":1800,"width":430,"height":90},
+		{"id":"ea8b7a984ce8320f","type":"text","text":"## 七、编译配置流程图","x":-1000,"y":12920,"width":376,"height":70},
+		{"id":"f8648cc43aefbdd1","type":"file","file":"流程图/deepseek_mermaid_20260118_51b438.png","x":-1000,"y":13080,"width":2549,"height":367},
+		{"id":"6c1f4efc5915a04c","type":"text","text":"## 七、编译配置流程图","x":-1000,"y":12612,"width":376,"height":70},
+		{"id":"aa963bff269ce37f","type":"file","file":"流程图/deepseek_mermaid_20260118_51b438.png","x":-1000,"y":12772,"width":2549,"height":367}
+	],
+	"edges":[]
+}
